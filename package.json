@@ -1,5 +1,5 @@
 {
-  "name": "tdd-clean-arch-studies",
+  "name": "clean-arch-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivanferreirajr/tdd-clean-arch-studies.git"
+    "url": "git+https://github.com/ivanferreirajr/clean-arch-node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivanferreirajr/tdd-clean-arch-studies/issues"
+    "url": "https://github.com/ivanferreirajr/clean-arch-node/issues"
   },
-  "homepage": "https://github.com/ivanferreirajr/tdd-clean-arch-studies#readme"
+  "homepage": "https://github.com/ivanferreirajr/clean-arch-node#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
 }
